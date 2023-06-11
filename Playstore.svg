@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#231F20;}
+	.st1{fill:#3BCCFF;}
+	.st2{fill:#FF3333;}
+	.st3{fill:#FFD400;}
+	.st4{fill:#48FF48;}
+	.st5{fill:none;}
+	.st6{fill:#939598;}
+	.st7{font-family:'MyriadPro-Regular';}
+	.st8{font-size:48px;}
+</style>
+<rect class="st0" width="792" height="612"/>
+<g>
+	<g>
+		<path class="st1" d="M435.41,268.02L304.56,398.86c-2.62-1.85-4.42-4.89-4.42-8.54V144.36c0-3.29,1.46-6.08,3.66-7.94
+			L435.41,268.02z"/>
+		<path class="st2" d="M474.94,307.54l-159.09,91.85c-3.81,2.2-8.14,1.7-11.29-0.52l130.85-130.85L474.94,307.54z"/>
+		<path class="st3" d="M528.86,276.4l-53.92,31.14l-39.53-39.52l40.38-40.38l53.07,30.64C535.84,262.3,535.84,272.38,528.86,276.4z"
+			/>
+		<path class="st4" d="M475.79,227.63l-40.38,40.38l-131.6-131.6c3.18-2.72,7.92-3.5,12.05-1.12L475.79,227.63z"/>
+		<line class="st5" x1="475.81" y1="227.61" x2="475.79" y2="227.63"/>
+		<line class="st5" x1="474.97" y1="307.57" x2="474.94" y2="307.54"/>
+		<line class="st5" x1="303.8" y1="136.41" x2="303.8" y2="136.41"/>
+	</g>
+	<text transform="matrix(1 0 0 1 281.8559 468.9467)" class="st6 st7 st8">Google Play</text>
+</g>
+</svg>
